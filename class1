@@ -5,3 +5,4 @@ if(num%2==0):
 else:
     print("Odd number",num)
 print("Program completed")
+print("End of Program")
