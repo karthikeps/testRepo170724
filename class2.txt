@@ -1,0 +1,9 @@
+Animals
+Birds
+
+
+
+INSERT
+:wq!
+:w
+ss
