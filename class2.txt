@@ -1,6 +1,7 @@
 Animals
 Birds
-
+Plants
+Herbivores
 
 
 INSERT
